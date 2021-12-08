@@ -124,9 +124,6 @@
     flex-direction: column;
     background-color: rgba(0, 0, 0, 0.4);
     color: black;
-    padding: 25px;
-    margin: 40px 0px;
-    margin-bottom: 30px;
 }
 .main{
     display: flex;
