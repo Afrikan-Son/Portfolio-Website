@@ -96,4 +96,16 @@
     margin-bottom: 20px;
 }
 
-/*
+/* Portfolio Section */
+#portfolio{
+    display: flex;
+    flex-direction: column;
+
+}
+.gallery{
+    display: flex;
+}
+.gallery img{
+    width: 360px;
+    height: 240px;
+}
