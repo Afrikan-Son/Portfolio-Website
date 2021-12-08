@@ -1,17 +1,4 @@
-.wrapper {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-around;
-    height: 100vh;
-}
-
-.portrait > img {
-    height: 700px;
-    width: 500px;
-}
-
-/*Navabar */
+/*Navbar */
 .navbar{
     display: flex;
     justify-content: center;
