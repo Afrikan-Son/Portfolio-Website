@@ -46,5 +46,12 @@
 #home{
     display: flex;
     flex-direction: column;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(39, 1, 1, 0.3);
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid white; */
+    align-items: center;
+    position: absolute;
 }
