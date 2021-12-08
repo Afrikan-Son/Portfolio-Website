@@ -113,7 +113,9 @@
     box-sizing: border-box;
 }
 .gallery img{
-    width: 300px;
+    width: 400px;
     height: 400px;
     margin: 10px;
 }
+
+/* Contact Section*/
