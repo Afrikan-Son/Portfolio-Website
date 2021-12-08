@@ -50,7 +50,7 @@
 }
 .headings{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 3rem;
+    font-size: 2rem;
     text-align: center;
     margin: 40 px 0px;
 }
@@ -95,3 +95,5 @@
     font-size: 2rem;
     margin-bottom: 20px;
 }
+
+/*
