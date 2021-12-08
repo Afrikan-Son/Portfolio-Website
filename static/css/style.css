@@ -69,5 +69,11 @@
     outline: none;
     transition: .6s ease;
 }
-
+.btn:hover{
+    cursor: pointer;
+    background-color: white;
+    color: blue;
+    box-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px blue;
+    font-weight: bold;
+}
 
