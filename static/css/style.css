@@ -10,3 +10,18 @@
     height: 500px;
     width: 400px;
 }
+
+/*Navabar */
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    position: sticky;
+    top: 0;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+    margin: 20px 0px;
+}
