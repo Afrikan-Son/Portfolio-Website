@@ -7,8 +7,8 @@
 }
 
 .portrait > img {
-    height: 600px;
-    width: 600px;
+    height: 700px;
+    width: 500px;
 }
 
 /*Navabar */
@@ -63,7 +63,7 @@
 }
 .btn{
     padding: 10px 35px;
-    background-color: transparent;
+    background-color: black;
     border: 1px solid white;
     color: white;
     outline: none;
