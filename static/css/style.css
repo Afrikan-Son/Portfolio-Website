@@ -34,4 +34,10 @@
     text-decoration: none;
     color: white;
     padding: 9px 26px;
+    transition: all .5s ease;
+}
+.navbar ul li a:hover{
+    basackground-color: white;
+    color: black;
+    box-shadow: 0 0 10px white;
 }
