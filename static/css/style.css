@@ -100,6 +100,10 @@
 #portfolio{
     display: flex;
     flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    align-items: center;
+    padding: 20px;
 
 }
 .gallery{
